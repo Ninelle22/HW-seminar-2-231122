@@ -13,6 +13,5 @@ if (n == 7 || n == 6)
 else
     WriteLine("WEEKDAY");
 
-    
 
 
